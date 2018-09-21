@@ -8,7 +8,7 @@ import { Http } from '@angular/http';
 })
 
 export class AppComponent implements OnInit {
-  title = 'time-tracker';
+  title = 'all i did was check-in and bada-bing bada-boom';
 
   constructor(private _httpService: Http) { }
   apiValues: string[] = [];
